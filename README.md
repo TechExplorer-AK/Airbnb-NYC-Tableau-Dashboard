@@ -25,7 +25,7 @@
   groups and room types.
 
 ## Dashboard
-![Image Alt]?(https://github.com/TechExplorer-AK/Airbnb-NYC-Tableau-Dashboard/blob/main/Screenshot.png?raw=true)
+![Alt Text](https://github.com/TechExplorer-AK/Airbnb-NYC-Tableau-Dashboard/blob/main/Screenshot.png?raw=true)
 
 
 
